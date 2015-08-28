@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 version = '0.1'
 
 setup(
-    name='upiqsite.base',
+    name='upiqsite.bcfk',
     version=version,
     description='Policy product for TeamSpace',
     long_description=(

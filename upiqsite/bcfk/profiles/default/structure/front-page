@@ -1,6 +1,6 @@
 id: front-page
-title: BASE TeamSpace Collaboration Site
-description: Welcome to the TeamSpace collaboration site
+title: Best Care for Kids TeamSpace Collaboration Site
+description: Welcome to our TeamSpace collaboration site
 Content-Type: text/html
 
 <h3><br /></h3>
@@ -16,7 +16,7 @@ Content-Type: text/html
 
 <h3><em>QI TeamSpace:</em></h3>
 <p class="callout">
-        This organization
+        The Best Care for Kids improvement partnership
         and its stakeholders use this site to facilitate online
         collaboration, resource sharing, and data collection related
         to the various quality improvement projects. 
@@ -28,11 +28,11 @@ Content-Type: text/html
 <h3><em>Questions?</em></h3>
 <p class="callout">
     <b>
-        If you have questions about QI Teamspace, please contact project staff 
-        by e-mail at <a href="mailto:info@example.org">info@example.org</a>.
+        If you have questions about QI Teamspace or Best Care for Kids, please contact project staff 
+        by e-mail at <a href="mailto:info@frameshiftgroup.com">info@frameshiftgroup.com</a>
         <br /><br />
         For more information, please visit 
-        <a href="http://www.example.org" target="_blank">our main site</a>.
+        <a href="http://frameshiftgroup.com/best-care-for-kids/" target="_blank">our main site</a>.
     </b>
 </p>
 

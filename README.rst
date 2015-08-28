@@ -1,4 +1,4 @@
-upiqsite.base  : site policy product for TEAMSPACE SITE
+upiqsite.bcfk : site policy product for Best Care For Kids TeamSpace site.
 
 ----
 
